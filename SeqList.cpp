@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 const int MaxSize = 100;
-//template<class int>
 class SeqList {
 private:
 	int data[MaxSize];
